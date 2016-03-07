@@ -6,8 +6,6 @@ library(dplyr)
 # Q5: How have emissions from motor vehicle sources changed 
 #     from 1999–2008 in Baltimore City? 
 
-# Ans: ???
-
 # Task: Use the ggplot2 plotting system to make a plot
 
 # Use data tables and dplyr functoins
